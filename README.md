@@ -73,3 +73,14 @@ public class Main {
 ```
 
 ## Program Output
+Cat is a CLASS (blueprint)
+
+Created 3 OBJECTS from the Cat class:
+Whiskers says: Meow!
+Fluffy says: Meow!
+Mitten says: Meow!
+
+Each object has its own data:
+whiskers.name = Whiskers
+fluffy.name = Fluffy
+mitten.name = Mitten
